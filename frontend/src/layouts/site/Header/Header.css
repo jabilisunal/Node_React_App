@@ -1,0 +1,30 @@
+.navbar{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #c31432;
+    height: 70px;
+    
+}
+.navbar .logo h3{
+    color: #240b36;
+}
+.navbar .logo  a {
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+.navigations nav ul{
+    display: flex;
+    gap: 20px;
+
+}
+.navigations nav ul li{
+    font-size: 20px;
+    list-style-type: none;
+}
+.navigations nav ul li a{
+    color: #240b36;
+    text-decoration: none;
+
+}
